@@ -1,2 +1,3 @@
 # hello-world
 my 1st trial repository
+I don't know how to code...
